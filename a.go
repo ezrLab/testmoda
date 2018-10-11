@@ -16,3 +16,7 @@ func Feed(args ...string) error {
 	fmt.Println("Ge~~~")
 	return nil
 }
+
+func mockAddFeature1() {
+
+}
